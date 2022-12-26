@@ -1,17 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29424.173
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinecraftEditor", "MinecraftEditor\MinecraftEditor.csproj", "{3DA90FF7-6DC6-4668-A4BA-48737A8089B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinecraftEditor", "MinecraftEditor\MinecraftEditor.csproj", "{3DA90FF7-6DC6-4668-A4BA-48737A8089B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimCityReader", "SimCityReader\SimCityReader.csproj", "{CC84F582-4F93-4628-83DD-CA36773CE759}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimCityReader", "SimCityReader\SimCityReader.csproj", "{CC84F582-4F93-4628-83DD-CA36773CE759}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MineCity2000-GUI", "MineCity2000-GUI\MineCity2000-GUI.csproj", "{FCF302D8-FE31-4FE7-A6BB-162ADA516E72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnvilFile", "AnvilFile\AnvilFile.csproj", "{56645ABF-CDDD-435E-845F-BF5AA422AF80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnvilFile", "AnvilFile\AnvilFile.csproj", "{56645ABF-CDDD-435E-845F-BF5AA422AF80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MineCity2000", "MineCity2000\MineCity2000.csproj", "{79BB814A-ADA6-4C32-9760-87D9A822DEAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MineCity2000", "MineCity2000\MineCity2000.csproj", "{79BB814A-ADA6-4C32-9760-87D9A822DEAA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,25 +24,25 @@ Global
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{3DA90FF7-6DC6-4668-A4BA-48737A8089B9}.Debug|Any CPU.ActiveCfg = Debug|x86
-		{3DA90FF7-6DC6-4668-A4BA-48737A8089B9}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
-		{3DA90FF7-6DC6-4668-A4BA-48737A8089B9}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{3DA90FF7-6DC6-4668-A4BA-48737A8089B9}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{3DA90FF7-6DC6-4668-A4BA-48737A8089B9}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
 		{3DA90FF7-6DC6-4668-A4BA-48737A8089B9}.Debug|x86.ActiveCfg = Debug|x86
 		{3DA90FF7-6DC6-4668-A4BA-48737A8089B9}.Debug|x86.Build.0 = Debug|x86
 		{3DA90FF7-6DC6-4668-A4BA-48737A8089B9}.Release|Any CPU.ActiveCfg = Release|x86
-		{3DA90FF7-6DC6-4668-A4BA-48737A8089B9}.Release|Mixed Platforms.ActiveCfg = Release|x86
-		{3DA90FF7-6DC6-4668-A4BA-48737A8089B9}.Release|Mixed Platforms.Build.0 = Release|x86
-		{3DA90FF7-6DC6-4668-A4BA-48737A8089B9}.Release|x86.ActiveCfg = Release|x86
-		{3DA90FF7-6DC6-4668-A4BA-48737A8089B9}.Release|x86.Build.0 = Release|x86
+		{3DA90FF7-6DC6-4668-A4BA-48737A8089B9}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{3DA90FF7-6DC6-4668-A4BA-48737A8089B9}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{3DA90FF7-6DC6-4668-A4BA-48737A8089B9}.Release|x86.ActiveCfg = Release|Any CPU
+		{3DA90FF7-6DC6-4668-A4BA-48737A8089B9}.Release|x86.Build.0 = Release|Any CPU
 		{CC84F582-4F93-4628-83DD-CA36773CE759}.Debug|Any CPU.ActiveCfg = Debug|x86
-		{CC84F582-4F93-4628-83DD-CA36773CE759}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
-		{CC84F582-4F93-4628-83DD-CA36773CE759}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{CC84F582-4F93-4628-83DD-CA36773CE759}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{CC84F582-4F93-4628-83DD-CA36773CE759}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
 		{CC84F582-4F93-4628-83DD-CA36773CE759}.Debug|x86.ActiveCfg = Debug|x86
 		{CC84F582-4F93-4628-83DD-CA36773CE759}.Debug|x86.Build.0 = Debug|x86
 		{CC84F582-4F93-4628-83DD-CA36773CE759}.Release|Any CPU.ActiveCfg = Release|x86
-		{CC84F582-4F93-4628-83DD-CA36773CE759}.Release|Mixed Platforms.ActiveCfg = Release|x86
-		{CC84F582-4F93-4628-83DD-CA36773CE759}.Release|Mixed Platforms.Build.0 = Release|x86
-		{CC84F582-4F93-4628-83DD-CA36773CE759}.Release|x86.ActiveCfg = Release|x86
-		{CC84F582-4F93-4628-83DD-CA36773CE759}.Release|x86.Build.0 = Release|x86
+		{CC84F582-4F93-4628-83DD-CA36773CE759}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{CC84F582-4F93-4628-83DD-CA36773CE759}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{CC84F582-4F93-4628-83DD-CA36773CE759}.Release|x86.ActiveCfg = Release|Any CPU
+		{CC84F582-4F93-4628-83DD-CA36773CE759}.Release|x86.Build.0 = Release|Any CPU
 		{FCF302D8-FE31-4FE7-A6BB-162ADA516E72}.Debug|Any CPU.ActiveCfg = Debug|x86
 		{FCF302D8-FE31-4FE7-A6BB-162ADA516E72}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
 		{FCF302D8-FE31-4FE7-A6BB-162ADA516E72}.Debug|Mixed Platforms.Build.0 = Debug|x86
